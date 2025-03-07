@@ -1,6 +1,7 @@
 # 🔐 Projeto de Criptografia de Dados
 
-![Badge de Status](https://img.shields.io/badge/status-em%20desenvolvimento-blue)
+![Badge de Status](https://img.shields.io/badge/status-Conclu%C3%ADdo-success?style=for-the-badge)
+
 
 ## 📌 Descrição
 
