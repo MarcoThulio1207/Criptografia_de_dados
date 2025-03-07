@@ -21,4 +21,4 @@ Com ele, é possível garantir maior **segurança** para quem precisa armazenar 
 
 ---
 
-Gostou do projeto? Fique à vontade para contribuir! 💙✂️ 
+Gostou do projeto? Fique à vontade para contribuir! 🖖🏻🚀
